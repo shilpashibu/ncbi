@@ -1,0 +1,815 @@
+>dbj|BAC65476.3| mKIAA0038 protein [Mus musculus]
+>dbj|BAE55482.1| unnamed protein product [Aspergillus oryzae RIB40]
+>dbj|GAA26775.1| K7_Aft2p [Saccharomyces cerevisiae Kyokai no. 7]
+>dbj|GAA38279.2| SWI/SNF related-matrix-associated actin-dependent regulator of 
+>dbj|GAA86102.1| RSC complex subunit [Aspergillus kawachii IFO 4308]
+>dbj|GAA91487.1| translation initiation factor 4B [Aspergillus kawachii IFO 4308]
+>dbj|GAA95882.1| hypothetical protein E5Q_02540 [Mixia osmundae IAM 14324]
+>dbj|GAA96861.1| hypothetical protein E5Q_03534 [Mixia osmundae IAM 14324]
+>dbj|GAB00022.1| hypothetical protein E5Q_06724 [Mixia osmundae IAM 14324]
+>dbj|GAC74093.1| cystathionine beta-synthase and related enzymes, partial [Pseudozyma 
+>dbj|GAC76260.1| FOG: RRM domain [Pseudozyma antarctica T-34]
+>dbj|GAC93283.1| hypothetical protein PHSY_000847 [Pseudozyma hubeiensis SY62]
+>dbj|GAC94291.1| nucleolin protein [Pseudozyma hubeiensis SY62]
+>emb|CAA54586.1| RCS1 [Saccharomyces cerevisiae]
+>emb|CAF87636.1| unnamed protein product [Tetraodon nigroviridis]
+>emb|CAF91121.1| unnamed protein product [Tetraodon nigroviridis]
+>emb|CAF96690.1| unnamed protein product [Tetraodon nigroviridis]
+>emb|CAG32440.1| hypothetical protein RCJMB04_25g18 [Gallus gallus]
+>emb|CAK46175.1| unnamed protein product [Aspergillus niger]
+>emb|CAN70078.1| hypothetical protein VITISV_001036 [Vitis vinifera]
+>emb|CBI21868.3| unnamed protein product [Vitis vinifera]
+>emb|CBI29382.3| unnamed protein product [Vitis vinifera]
+>emb|CBJ25913.1| eukaryotic initiation factor 4B [Ectocarpus siliculosus]
+>emb|CBN80919.1| Eukaryotic translation initiation factor 4B [Dicentrarchus labrax]
+>emb|CBQ68469.1| related to swi/snf-related matrix-associated actin-dependent 
+>emb|CBQ71368.1| conserved hypothetical protein [Sporisorium reilianum SRZ2]
+>emb|CCA20024.1| Pc21g00130 putative [Albugo laibachii Nc14]
+>emb|CCA20967.1| Pc21g00130 putative [Albugo laibachii Nc14]
+>emb|CCA38322.1| Protein PSP2 [Komagataella pastoris CBS 7435]
+>emb|CCA39086.1| Probable RNA-binding protein sce3 [Komagataella pastoris CBS 
+>emb|CCA66644.1| hypothetical protein PIIN_00327 [Piriformospora indica DSM 11827]
+>emb|CCA70421.1| related to swi/snf-related matrix-associated actin-dependent 
+>emb|CCE27032.1| uncharacterized protein CPUR_00504 [Claviceps purpurea 20.1]
+>emb|CCE28706.1| uncharacterized protein CPUR_02394 [Claviceps purpurea 20.1]
+>emb|CCE28770.1| uncharacterized protein CPUR_02459 [Claviceps purpurea 20.1]
+>emb|CCE29047.1| uncharacterized protein CPUR_02738 [Claviceps purpurea 20.1]
+>emb|CCE30255.1| uncharacterized protein CPUR_04103 [Claviceps purpurea 20.1]
+>emb|CCE30446.1| uncharacterized protein CPUR_04294 [Claviceps purpurea 20.1]
+>emb|CCE30627.1| related to putative cystathionine beta-lyase [Claviceps purpurea 
+>emb|CCE31933.1| uncharacterized protein CPUR_05790 [Claviceps purpurea 20.1]
+>emb|CCE32497.1| related to translation initiation factor eIF-4B [Claviceps purpurea 
+>emb|CCE33404.1| uncharacterized protein CPUR_07328 [Claviceps purpurea 20.1]
+>emb|CCE34609.1| uncharacterized protein CPUR_08543 [Claviceps purpurea 20.1]
+>emb|CCE34848.1| uncharacterized protein CPUR_08787 [Claviceps purpurea 20.1]
+>emb|CCE34859.1| uncharacterized protein CPUR_08798 [Claviceps purpurea 20.1]
+>emb|CCE35337.1| uncharacterized protein CPUR_03325 [Claviceps purpurea 20.1]
+>emb|CCE39836.1| hypothetical protein CPAR2_602550 [Candida parapsilosis]
+>emb|CCE40360.1| hypothetical protein CPAR2_103980 [Candida parapsilosis]
+>emb|CCE42626.1| hypothetical protein CPAR2_202690 [Candida parapsilosis]
+>emb|CCE44705.1| hypothetical protein CPAR2_405090 [Candida parapsilosis]
+>emb|CCE44848.1| hypothetical protein CPAR2_406510 [Candida parapsilosis]
+>emb|CCF44211.1| translation initiation factor 4B [Colletotrichum higginsianum]
+>emb|CCF49035.1| uncharacterized protein [Ustilago hordei]
+>emb|CCF50618.1| related to swi/snf-related matrix-associated actin-dependent 
+>emb|CCG81489.1| Translation initiation factor 4B [Taphrina deformans PYCC 5710]
+>emb|CCG84988.1| protein of unknown function [Taphrina deformans PYCC 5710]
+>emb|CCH42967.1| SWI/SNF complex subunit SWI3 [Wickerhamomyces ciferrii]
+>emb|CCH44427.1| Iron-regulated transcriptional activator AFT1 [Wickerhamomyces 
+>emb|CCH46401.1| hypothetical protein BN7_5994 [Wickerhamomyces ciferrii]
+>emb|CCH46577.1| Polyadenylate-binding protein, cytoplasmic and nuclear [Wickerhamomyces 
+>emb|CCJ29036.1| unnamed protein product [Pneumocystis jirovecii]
+>emb|CCJ29660.1| unnamed protein product, partial [Pneumocystis jirovecii]
+>emb|CCK69346.1| hypothetical protein KNAG_0C02350 [Kazachstania naganishii CBS 
+>emb|CCK70254.1| hypothetical protein KNAG_0D05160 [Kazachstania naganishii CBS 
+>emb|CCK70266.1| hypothetical protein KNAG_0D05280 [Kazachstania naganishii CBS 
+>emb|CCK70868.1| hypothetical protein KNAG_0F02010 [Kazachstania naganishii CBS 
+>emb|CCK72745.1| hypothetical protein KNAG_0L01250 [Kazachstania naganishii CBS 
+>emb|CCM03280.1| predicted protein [Fibroporia radiculosa]
+>emb|CCM04697.1| predicted protein [Fibroporia radiculosa]
+>emb|CCO30493.1| putative RNA-binding protein sce3 [Rhizoctonia solani AG-1 IB]
+>emb|CCO35488.1| SWI/SNF and RSC complexes subunit ssr2 [Rhizoctonia solani AG-1 
+>emb|CCU99109.1| unnamed protein product [Malassezia sympodialis ATCC 42132]
+>emb|CCV00346.1| unnamed protein product [Malassezia sympodialis ATCC 42132]
+>gb|AAH47827.1| Smarcc1 protein [Danio rerio]
+>gb|AAH53064.1| Smarcc1 protein, partial [Mus musculus]
+>gb|AAH62102.1| Smarcc2 protein, partial [Mus musculus]
+>gb|AAH65640.1| Zgc:77282 [Danio rerio]
+>gb|AAH66675.1| Eif4bb protein [Danio rerio]
+>gb|AAH86699.1| Eif4bb protein [Danio rerio]
+>gb|AAI06566.1| MGC68480 protein [Xenopus laevis]
+>gb|AAI42794.1| Eif4ba protein [Danio rerio]
+>gb|AAI53367.1| smarcc2 protein [Xenopus (Silurana) tropicalis]
+>gb|AAL54908.1|AF165225_1 eukaryotic translation inititation factor 4B [Lapemis hardwickii]
+>gb|AAP31248.1| transposase [Fusarium oxysporum f. sp. melonis]
+>gb|ABE80136.2| transposase, putative [Medicago truncatula]
+>gb|ABN05752.1| Ovarian tumour, otubain, related [Medicago truncatula]
+>gb|ABN06012.1| hypothetical protein MtrDRAFT_AC149490g18v2 [Medicago truncatula]
+>gb|ABN08997.1| Ovarian tumour, otubain, putative [Medicago truncatula]
+>gb|ABR20293.1| hypothetical protein [Colletotrichum cereale]
+>gb|ACN10439.1| Eukaryotic translation initiation factor 4H [Salmo salar]
+>gb|ACN60318.1| Eukaryotic translation initiation factor 4B [Salmo salar]
+>gb|ACO10072.1| Eukaryotic translation initiation factor 4H [Osmerus mordax]
+>gb|ACU01860.1| otubain [Glycine max]
+>gb|ACU01865.1| otubain [Glycine max]
+>gb|ADX07286.1| putative citrate synthase [Flammulina velutipes]
+>gb|ADY39537.1| putative translation initiation factor 4H [Hottentotta judaicus]
+>gb|AEY95241.1| FABR179Cp [Ashbya gossypii FDAG1]
+>gb|AGO10633.1| AaceriABR179Cp [Saccharomycetaceae sp. 'Ashbya aceri']
+>gb|AGO12223.1| AaceriAEL135Cp [Saccharomycetaceae sp. 'Ashbya aceri']
+>gb|AGO13071.1| AaceriAFL087Cp [Saccharomycetaceae sp. 'Ashbya aceri']
+>gb|EAL24215.1| similar to mKIAA0038 protein [Homo sapiens]
+>gb|EAS34497.2| RSC complex subunit [Coccidioides immitis RS]
+>gb|EAS35518.2| isochorismatase family hydrolase [Coccidioides immitis RS]
+>gb|EAW64831.1| SWI/SNF related, matrix associated, actin dependent regulator 
+>gb|EAW69525.1| cold inducible RNA binding protein, isoform CRA_d [Homo sapiens]
+>gb|EAX05390.1| hCG1793972, isoform CRA_b [Homo sapiens]
+>gb|EDK36345.2| hypothetical protein PGUG_00443 [Meyerozyma guilliermondii ATCC 
+>gb|EDK36801.2| hypothetical protein PGUG_00899 [Meyerozyma guilliermondii ATCC 
+>gb|EDK37366.2| hypothetical protein PGUG_01464 [Meyerozyma guilliermondii ATCC 
+>gb|EDK39118.2| hypothetical protein PGUG_03216 [Meyerozyma guilliermondii ATCC 
+>gb|EDL24568.1| SWI/SNF related, matrix associated, actin dependent regulator 
+>gb|EDL84859.1| rCG42404, isoform CRA_b [Rattus norvegicus]
+>gb|EDZ72380.1| YFR037Cp-like protein [Saccharomyces cerevisiae AWRI1631]
+>gb|EEH11593.1| SWI/SNF complex transcription regulator [Ajellomyces capsulatus 
+>gb|EEH42265.1| conserved hypothetical protein [Paracoccidioides brasiliensis 
+>gb|EEH44790.1| translation initiation factor 4B [Paracoccidioides brasiliensis 
+>gb|EER45829.1| isochorismatase hydrolase [Ajellomyces capsulatus H143]
+>gb|EFN56399.1| hypothetical protein CHLNCDRAFT_144970 [Chlorella variabilis]
+>gb|EFN82710.1| Eukaryotic translation initiation factor 4H [Harpegnathos saltator]
+>gb|EFN82761.1| SWI/SNF complex subunit SMARCC2 [Harpegnathos saltator]
+>gb|EFO25635.2| hypothetical protein LOAG_02856 [Loa loa]
+>gb|EFQ25126.1| RNA recognition domain-containing protein [Glomerella graminicola 
+>gb|EFQ27552.1| SWIRM domain-containing protein [Glomerella graminicola M1.001]
+>gb|EFQ33885.1| hypothetical protein GLRG_09029 [Glomerella graminicola M1.001]
+>gb|EFR19652.1| hypothetical protein AND_22067 [Anopheles darlingi]
+>gb|EFW95595.1| Component of the RSC chromatin remodeling complex [Ogataea parapolymorpha 
+>gb|EFW95810.1| Putative ATP-dependent RNA helicase of the DEAD-box protein family 
+>gb|EFW96679.1| hypothetical protein HPODL_1389 [Ogataea parapolymorpha DL-1]
+>gb|EFW97042.1| Subunit of the SWI/SNF chromatin remodeling complex [Ogataea 
+>gb|EFW97577.1| hypothetical protein HPODL_0984 [Ogataea parapolymorpha DL-1]
+>gb|EFW98105.1| eukaryotic translation initiation factor 4B (eIF-4B), putative 
+>gb|EFX02137.1| hypothetical protein CMQ_2186 [Grosmannia clavigera kw1407]
+>gb|EFX02217.1| translation initiation factor 4b [Grosmannia clavigera kw1407]
+>gb|EFX03594.1| rsc complex subunit [Grosmannia clavigera kw1407]
+>gb|EFX72961.1| hypothetical protein DAPPUDRAFT_325769 [Daphnia pulex]
+>gb|EFX80450.1| hypothetical protein DAPPUDRAFT_51378 [Daphnia pulex]
+>gb|EFX85352.1| hypothetical protein DAPPUDRAFT_45779 [Daphnia pulex]
+>gb|EFY84203.1| RNA recognition motif containing protein [Metarhizium acridum 
+>gb|EFY94373.1| Mutator-like element transposase, putative [Metarhizium anisopliae 
+>gb|EFY95601.1| RNA recognition motif containing protein [Metarhizium anisopliae 
+>gb|EFY99224.1| RSC complex subunit (RSC8), putative [Metarhizium anisopliae 
+>gb|EFZ03321.1| Mutator-like element transposase, putative [Metarhizium anisopliae 
+>gb|EGA56322.1| Tif3p [Saccharomyces cerevisiae FostersB]
+>gb|EGA62298.1| Aft1p [Saccharomyces cerevisiae FostersO]
+>gb|EGA76505.1| Tif3p [Saccharomyces cerevisiae Vin13]
+>gb|EGA86762.1| Aft1p [Saccharomyces cerevisiae VL3]
+>gb|EGC43861.1| translation initiation factor 4B [Ajellomyces capsulatus H88]
+>gb|EGD74687.1| hypothetical protein PTSG_06050 [Salpingoeca sp. ATCC 50818]
+>gb|EGD93792.1| RSC complex subunit RSC8 [Trichophyton tonsurans CBS 112818]
+>gb|EGE02928.1| isochorismatase [Trichophyton equinum CBS 127.97]
+>gb|EGE04216.1| translation initiation factor 4B [Trichophyton equinum CBS 127.97]
+>gb|EGE81319.1| translation initiation factor 4B [Ajellomyces dermatitidis ATCC 
+>gb|EGE81939.1| isochorismatase [Ajellomyces dermatitidis ATCC 18188]
+>gb|EGF77752.1| hypothetical protein BATDEDRAFT_2502 [Batrachochytrium dendrobatidis 
+>gb|EGF83184.1| hypothetical protein BATDEDRAFT_21654 [Batrachochytrium dendrobatidis 
+>gb|EGF98132.1| hypothetical protein MELLADRAFT_41001 [Melampsora larici-populina 
+>gb|EGF99571.1| hypothetical protein MELLADRAFT_112636 [Melampsora larici-populina 
+>gb|EGG00299.1| hypothetical protein MELLADRAFT_67926 [Melampsora larici-populina 
+>gb|EGG00496.1| hypothetical protein MELLADRAFT_67715 [Melampsora larici-populina 
+>gb|EGG01525.1| hypothetical protein MELLADRAFT_110868 [Melampsora larici-populina 
+>gb|EGG01665.1| hypothetical protein MELLADRAFT_66869 [Melampsora larici-populina 
+>gb|EGG04561.1| hypothetical protein MELLADRAFT_108186 [Melampsora larici-populina 
+>gb|EGG04583.1| hypothetical protein MELLADRAFT_117005 [Melampsora larici-populina 
+>gb|EGG07279.1| hypothetical protein MELLADRAFT_85634 [Melampsora larici-populina 
+>gb|EGG09140.1| hypothetical protein MELLADRAFT_104444 [Melampsora larici-populina 
+>gb|EGG09456.1| hypothetical protein MELLADRAFT_61150 [Melampsora larici-populina 
+>gb|EGG11549.1| hypothetical protein MELLADRAFT_91133 [Melampsora larici-populina 
+>gb|EGG12904.1| hypothetical protein MELLADRAFT_87237 [Melampsora larici-populina 
+>gb|EGI63225.1| Eukaryotic translation initiation factor 4H [Acromyrmex echinatior]
+>gb|EGI63276.1| SWI/SNF complex subunit SMARCC2 [Acromyrmex echinatior]
+>gb|EGN92851.1| hypothetical protein SERLA73DRAFT_190409 [Serpula lacrymans var. 
+>gb|EGN99014.1| hypothetical protein SERLA73DRAFT_181797 [Serpula lacrymans var. 
+>gb|EGO59506.1| hypothetical protein NEUTE1DRAFT_79678 [Neurospora tetrasperma 
+>gb|EGR48279.1| predicted protein [Trichoderma reesei QM6a]
+>gb|EGR48641.1| predicted protein [Trichoderma reesei QM6a]
+>gb|EGR51851.1| chromatin remodelling factor-like protein [Trichoderma reesei 
+>gb|EGS17793.1| hypothetical protein CTHT_0071410 [Chaetomium thermophilum var. 
+>gb|EGS20857.1| translation initiation factor 4B-like protein [Chaetomium thermophilum 
+>gb|EGS21555.1| hypothetical protein CTHT_0034160 [Chaetomium thermophilum var. 
+>gb|EGT37433.1| hypothetical protein CAEBREN_06253 [Caenorhabditis brenneri]
+>gb|EGT49233.1| hypothetical protein CAEBREN_26021 [Caenorhabditis brenneri]
+>gb|EGU76274.1| hypothetical protein FOXB_13216 [Fusarium oxysporum Fo5176]
+>gb|EGU78559.1| hypothetical protein FOXB_10930 [Fusarium oxysporum Fo5176]
+>gb|EGU82601.1| hypothetical protein FOXB_06885 [Fusarium oxysporum Fo5176]
+>gb|EGU84478.1| hypothetical protein FOXB_05007 [Fusarium oxysporum Fo5176]
+>gb|EGU88624.1| hypothetical protein FOXB_00873 [Fusarium oxysporum Fo5176]
+>gb|EGV62232.1| hypothetical protein CANTEDRAFT_136165 [Candida tenuis ATCC 10573]
+>gb|EGV65647.1| hypothetical protein CANTEDRAFT_112521 [Candida tenuis ATCC 10573]
+>gb|EGV92148.1| SWI/SNF complex subunit SMARCC1 [Cricetulus griseus]
+>gb|EGV98607.1| Eukaryotic translation initiation factor 4B [Cricetulus griseus]
+>gb|EGW30385.1| hypothetical protein SPAPADRAFT_63232 [Spathaspora passalidarum 
+>gb|EGW31468.1| hypothetical protein SPAPADRAFT_67527 [Spathaspora passalidarum 
+>gb|EGW33046.1| hypothetical protein SPAPADRAFT_60364 [Spathaspora passalidarum 
+>gb|EGX46519.1| hypothetical protein AOL_s00109g91 [Arthrobotrys oligospora ATCC 
+>gb|EGX47483.1| hypothetical protein AOL_s00083g419 [Arthrobotrys oligospora 
+>gb|EGX87850.1| hypothetical protein CCM_09473 [Cordyceps militaris CM01]
+>gb|EGX90426.1| hypothetical protein CCM_06846 [Cordyceps militaris CM01]
+>gb|EGX94283.1| translation initiation factor eIF4B [Cordyceps militaris CM01]
+>gb|EGX94656.1| RSC complex subunit (RSC8), putative [Cordyceps militaris CM01]
+>gb|EGY14501.1| hypothetical protein VDAG_05665 [Verticillium dahliae VdLs.17]
+>gb|EGY18885.1| transcription regulatory protein SWI3 [Verticillium dahliae VdLs.17]
+>gb|EGY21331.1| hypothetical protein VDAG_02855 [Verticillium dahliae VdLs.17]
+>gb|EGZ72327.1| hypothetical protein NEUTE2DRAFT_158345 [Neurospora tetrasperma 
+>gb|EHA98898.1| Eukaryotic translation initiation factor 4B [Heterocephalus glaber]
+>gb|EHB03278.1| Eukaryotic translation initiation factor 4B [Heterocephalus glaber]
+>gb|EHB14772.1| Eukaryotic translation initiation factor 4B [Heterocephalus glaber]
+>gb|EHH51334.1| hypothetical protein EGM_10689, partial [Macaca fascicularis]
+>gb|EHH66391.1| SWI/SNF-related matrix-associated actin-dependent regulator of 
+>gb|EHJ68496.1| hypothetical protein KGM_06579 [Danaus plexippus]
+>gb|EHJ79175.1| hypothetical protein KGM_15445 [Danaus plexippus]
+>gb|EHK17615.1| hypothetical protein TRIVIDRAFT_80616 [Trichoderma virens Gv29-8]
+>gb|EHK20405.1| hypothetical protein TRIVIDRAFT_224121 [Trichoderma virens Gv29-8]
+>gb|EHK26709.1| hypothetical protein TRIVIDRAFT_229476 [Trichoderma virens Gv29-8]
+>gb|EHK46224.1| hypothetical protein TRIATDRAFT_217941 [Trichoderma atroviride 
+>gb|EHK48645.1| hypothetical protein TRIATDRAFT_281461 [Trichoderma atroviride 
+>gb|EHK98699.1| hypothetical protein M7I_5447 [Glarea lozoyensis 74030]
+>gb|EHL02942.1| putative SWI/SNF complex subunit SMARCC2 [Glarea lozoyensis 74030]
+>gb|EHM99681.1| Tif3p [Saccharomyces cerevisiae x Saccharomyces kudriavzevii 
+>gb|EHN02594.1| Rsc8p [Saccharomyces cerevisiae x Saccharomyces kudriavzevii 
+>gb|EHN06408.1| Swi3p [Saccharomyces cerevisiae x Saccharomyces kudriavzevii 
+>gb|EHN07069.1| Aft1p [Saccharomyces cerevisiae x Saccharomyces kudriavzevii 
+>gb|EHY53090.1| translation initiation factor eIF-4B [Exophiala dermatitidis 
+>gb|EHY60836.1| transcriptional adapter 2-alpha [Exophiala dermatitidis NIH/UT8656]
+>gb|EIE86284.1| hypothetical protein RO3G_10995 [Rhizopus delemar RA 99-880]
+>gb|EIE86582.1| hypothetical protein RO3G_11293 [Rhizopus delemar RA 99-880]
+>gb|EIE90122.1| hypothetical protein RO3G_14833 [Rhizopus delemar RA 99-880]
+>gb|EIF45767.1| component of the rsc chromatin remodeling complex [Dekkera bruxellensis 
+>gb|EIF48261.1| suppressor of dna polymerase and splicing mutations [Dekkera 
+>gb|EIF49461.1| subunit of the swi snf chromatin remodeling complex [Dekkera 
+>gb|EIF49539.1| eukaryotic translation initiation factor 4b (eif-4b), partial 
+>gb|EIM19191.1| hypothetical protein WALSEDRAFT_61591 [Wallemia sebi CBS 633.66]
+>gb|EIM21073.1| SWIRM-domain-containing protein [Wallemia sebi CBS 633.66]
+>gb|EIM89221.1| SWIRM-domain-containing protein [Stereum hirsutum FP-91666 SS1]
+>gb|EIM91057.1| hypothetical protein STEHIDRAFT_72790 [Stereum hirsutum FP-91666 
+>gb|EIN04911.1| hypothetical protein PUNSTDRAFT_55250 [Punctularia strigosozonata 
+>gb|EIN08461.1| SWIRM-domain-containing protein, partial [Punctularia strigosozonata 
+>gb|EIW55293.1| Smarcc1 protein [Trametes versicolor FP-101664 SS1]
+>gb|EIW57790.1| hypothetical protein TRAVEDRAFT_38170 [Trametes versicolor FP-101664 
+>gb|EIW67278.1| hypothetical protein TREMEDRAFT_69766 [Tremella mesenterica DSM 
+>gb|EIW67959.1| hypothetical protein TREMEDRAFT_74367 [Tremella mesenterica DSM 
+>gb|EIW78362.1| SWIRM-domain-containing protein [Coniophora puteana RWD-64-598 
+>gb|EIW84187.1| hypothetical protein CONPUDRAFT_163376 [Coniophora puteana RWD-64-598 
+>gb|EJC99280.1| SWIRM-domain-containing protein [Fomitiporia mediterranea MF3/22]
+>gb|EJD06480.1| hypothetical protein FOMMEDRAFT_77195 [Fomitiporia mediterranea 
+>gb|EJD43205.1| SWIRM-domain-containing protein [Auricularia delicata TFB-10046 
+>gb|EJD49580.1| hypothetical protein AURDEDRAFT_112442 [Auricularia delicata 
+>gb|EJF55853.1| hypothetical protein DICSQDRAFT_72771, partial [Dichomitus squalens 
+>gb|EJF57364.1| SWIRM-domain-containing protein [Dichomitus squalens LYAD-421 
+>gb|EJP62025.1| transposase-like protein [Beauveria bassiana ARSEF 2860]
+>gb|EJP64113.1| SWI/SNF complex protein [Beauveria bassiana ARSEF 2860]
+>gb|EJP66902.1| RNA recognition domain-containing protein [Beauveria bassiana 
+>gb|EJP67152.1| Gln/Pro-rich protein G6G8.11 [Beauveria bassiana ARSEF 2860]
+>gb|EJS43209.1| swi3p [Saccharomyces arboricola H-6]
+>gb|EJS43752.1| rcs1p [Saccharomyces arboricola H-6]
+>gb|EJS43868.1| rsc8p [Saccharomyces arboricola H-6]
+>gb|EJT41281.1| TIF3-like protein [Saccharomyces kudriavzevii IFO 1802]
+>gb|EJT43129.1| AFT1-like protein [Saccharomyces kudriavzevii IFO 1802]
+>gb|EJT43561.1| AFT2-like protein [Saccharomyces kudriavzevii IFO 1802]
+>gb|EJT77683.1| transcription regulatory protein SWI3 [Gaeumannomyces graminis 
+>gb|EJT81064.1| translation initiation factor 4B [Gaeumannomyces graminis var. 
+>gb|EJT81113.1| hypothetical protein GGTG_01098 [Gaeumannomyces graminis var. 
+>gb|EJU04545.1| hypothetical protein DACRYDRAFT_20254 [Dacryopinax sp. DJM-731 
+>gb|EJU05377.1| SWIRM-domain-containing protein [Dacryopinax sp. DJM-731 SS1]
+>gb|EJW81423.1| hypothetical protein WUBG_07669 [Wuchereria bancrofti]
+>gb|EKC29597.1| SWI/SNF complex subunit SMARCC2 [Crassostrea gigas]
+>gb|EKC35107.1| Eukaryotic translation initiation factor 4B [Crassostrea gigas]
+>gb|EKD03465.1| hypothetical protein A1Q2_02183 [Trichosporon asahii var. asahii 
+>gb|EKD03799.1| chromatin remodeling-related protein [Trichosporon asahii var. 
+>gb|EKD17778.1| SWIRM domain-containing protein [Marssonina brunnea f. sp. 'multigermtubi' 
+>gb|EKD19978.1| translation initiation factor eIF4B [Marssonina brunnea f. sp. 
+>gb|EKD20034.1| cell cycle control protein [Marssonina brunnea f. sp. 'multigermtubi' 
+>gb|EKG09961.1| Transcription factor FAR1-related protein, partial [Macrophomina 
+>gb|EKG14166.1| SANT domain DNA binding protein [Macrophomina phaseolina MS6]
+>gb|EKG16390.1| hypothetical protein MPH_06359 [Macrophomina phaseolina MS6]
+>gb|EKJ71187.1| hypothetical protein FPSE_08693 [Fusarium pseudograminearum CS3096]
+>gb|EKM57901.1| hypothetical protein PHACADRAFT_251826 [Phanerochaete carnosa 
+>gb|EKM58121.1| hypothetical protein PHACADRAFT_252171, partial [Phanerochaete 
+>gb|EKM59039.1| hypothetical protein PHACADRAFT_249208 [Phanerochaete carnosa 
+>gb|EKV05158.1| Isochorismatase family hydrolase, putative [Penicillium digitatum 
+>gb|EKV11919.1| RSC complex subunit (RSC8), putative [Penicillium digitatum Pd1]
+>gb|EKV18640.1| Translation initiation factor 4B [Penicillium digitatum PHI26]
+>gb|EKV45199.1| hypothetical protein AGABI2DRAFT_225055 [Agaricus bisporus var. 
+>gb|EKV49121.1| hypothetical protein AGABI2DRAFT_65545, partial [Agaricus bisporus 
+>gb|ELA24638.1| rsc complex subunit [Colletotrichum gloeosporioides Nara gc5]
+>gb|ELA31378.1| RNA recognition motif containing protein, partial [Colletotrichum 
+>gb|ELK10187.1| SWI/SNF complex subunit SMARCC1 [Pteropus alecto]
+>gb|ELK15274.1| SWI/SNF complex subunit SMARCC2 [Pteropus alecto]
+>gb|ELK18989.1| Tensin-like C1 domain-containing phosphatase [Pteropus alecto]
+>gb|ELK24984.1| SWI/SNF complex subunit SMARCC1 [Myotis davidii]
+>gb|ELK35307.1| Eukaryotic translation initiation factor 4B [Myotis davidii]
+>gb|ELQ44943.1| hypothetical protein OOU_Y34scaffold00033g8 [Magnaporthe oryzae 
+>gb|ELR04107.1| hypothetical protein GMDG_01411 [Geomyces destructans 20631-21]
+>gb|ELR10631.1| hypothetical protein GMDG_04900 [Geomyces destructans 20631-21]
+>gb|ELU01612.1| hypothetical protein CAPTEDRAFT_182223 [Capitella teleta]
+>gb|ELU37045.1| Smarcc1 protein [Rhizoctonia solani AG-1 IA]
+>gb|ELU40444.1| RNA recognition motif domain-containing protein [Rhizoctonia 
+>gb|ELW61357.1| Eukaryotic translation initiation factor 4H [Tupaia chinensis]
+>gb|ELW70083.1| Eukaryotic translation initiation factor 4H [Tupaia chinensis]
+>gb|ELW71442.1| Tensin-like C1 domain-containing phosphatase [Tupaia chinensis]
+>gb|EMC96380.1| hypothetical protein BAUCODRAFT_70305 [Baudoinia compniacensis 
+>gb|EMC98083.1| hypothetical protein BAUCODRAFT_22920 [Baudoinia compniacensis 
+>gb|EMD33293.1| hypothetical protein CERSUDRAFT_117920 [Ceriporiopsis subvermispora 
+>gb|EMD35515.1| hypothetical protein CERSUDRAFT_116254 [Ceriporiopsis subvermispora 
+>gb|EMD62311.1| hypothetical protein COCSADRAFT_120840 [Bipolaris sorokiniana 
+>gb|EME47120.1| hypothetical protein DOTSEDRAFT_145507 [Dothistroma septosporum 
+>gb|EME47789.1| hypothetical protein DOTSEDRAFT_69655 [Dothistroma septosporum 
+>gb|EME85841.1| hypothetical protein MYCFIDRAFT_202293 [Pseudocercospora fijiensis 
+>gb|EME86085.1| hypothetical protein MYCFIDRAFT_206697 [Pseudocercospora fijiensis 
+>gb|EMF15520.1| hypothetical protein SEPMUDRAFT_147385 [Mycosphaerella populorum 
+>gb|EMF15752.1| SWIRM-domain-containing protein [Mycosphaerella populorum SO2202]
+>gb|EMG46090.1| hypothetical protein G210_3674, partial [Candida maltosa Xu316]
+>gb|EMG50345.1| Eukaryotic translation initiation factor 4B (EIF-4B), putative 
+>gb|EMG50407.1| Psp2-like protein [Candida maltosa Xu316]
+>gb|EMG50543.1| putative iron-responsive transcriptional activator, partial [Candida 
+>gb|EMG50804.1| hypothetical protein G210_0711 [Candida maltosa Xu316]
+>gb|EMJ01513.1| hypothetical protein PRUPE_ppa001251mg [Prunus persica]
+>gb|EMJ02938.1| hypothetical protein PRUPE_ppa002231mg [Prunus persica]
+>gb|EMJ05269.1| hypothetical protein PRUPE_ppb014228mg [Prunus persica]
+>gb|EMJ07404.1| hypothetical protein PRUPE_ppa014965mg, partial [Prunus persica]
+>gb|EMJ07410.1| hypothetical protein PRUPE_ppa015176mg, partial [Prunus persica]
+>gb|EMJ08750.1| hypothetical protein PRUPE_ppa017668mg, partial [Prunus persica]
+>gb|EMJ09445.1| hypothetical protein PRUPE_ppa016863mg, partial [Prunus persica]
+>gb|EMJ10143.1| hypothetical protein PRUPE_ppb015553mg, partial [Prunus persica]
+>gb|EMJ11309.1| hypothetical protein PRUPE_ppa022046mg, partial [Prunus persica]
+>gb|EMJ13783.1| hypothetical protein PRUPE_ppa015927mg [Prunus persica]
+>gb|EMJ14676.1| hypothetical protein PRUPE_ppa023809mg, partial [Prunus persica]
+>gb|EMJ15215.1| hypothetical protein PRUPE_ppa016269mg [Prunus persica]
+>gb|EMJ20806.1| hypothetical protein PRUPE_ppa023173mg [Prunus persica]
+>gb|EMJ20830.1| hypothetical protein PRUPE_ppa024885mg, partial [Prunus persica]
+>gb|EMJ21303.1| hypothetical protein PRUPE_ppa022698mg, partial [Prunus persica]
+>gb|EMJ28549.1| hypothetical protein PRUPE_ppa001313mg [Prunus persica]
+>gb|EMP29583.1| SWI/SNF complex subunit SMARCC1 [Chelonia mydas]
+>gb|EMP31028.1| SWI/SNF complex subunit SMARCC2 [Chelonia mydas]
+>gb|EMP36964.1| Eukaryotic translation initiation factor 4B [Chelonia mydas]
+>gb|EMP41059.1| Eukaryotic translation initiation factor 4H [Chelonia mydas]
+>gb|EMR08693.1| hypothetical protein PNEG_02871 [Pneumocystis murina B123]
+>gb|EMR10370.1| hypothetical protein PNEG_01622 [Pneumocystis murina B123]
+>gb|EMR64119.1| putative translation initiation factor 4b protein [Eutypa lata 
+>gb|EMR64526.1| putative gln pro-rich protein [Eutypa lata UCREL1]
+>gb|EMR64859.1| hypothetical protein UCREL1_8173 [Eutypa lata UCREL1]
+>gb|EMR69650.1| putative swi snf complex protein [Eutypa lata UCREL1]
+>gb|EMR90635.1| putative translation initiation factor 4b protein [Botryotinia 
+>gb|EMS19507.1| translation initiation factor eIF-4B [Rhodosporidium toruloides 
+>gb|EMS22766.1| chromatin structure-remodeling complex subunit RSC8 [Rhodosporidium 
+>gb|EMT70756.1| Putative RNA-binding protein sce3 [Fusarium oxysporum f. sp. 
+>gb|EMT73513.1| hypothetical protein FOC4_g10000548 [Fusarium oxysporum f. sp. 
+>gb|ENH63066.1| SWI/SNF and RSC complexes subunit ssr2 [Fusarium oxysporum f. 
+>gb|ENH85269.1| rsc complex subunit [Colletotrichum orbiculare MAFF 240422]
+>gb|ENH86294.1| RNA recognition motif containing protein [Colletotrichum orbiculare 
+>gb|ENH86462.1| hypothetical protein Cob_05316 [Colletotrichum orbiculare MAFF 
+>gb|ENI03462.1| hypothetical protein COCC4DRAFT_42021 [Bipolaris maydis ATCC 
+>gb|ENN71443.1| hypothetical protein YQE_11862, partial [Dendroctonus ponderosae]
+>gb|ENN74197.1| hypothetical protein YQE_09170, partial [Dendroctonus ponderosae]
+>gb|ENN76863.1| hypothetical protein YQE_06704, partial [Dendroctonus ponderosae]
+>gb|EOA86201.1| hypothetical protein SETTUDRAFT_169311 [Setosphaeria turcica 
+>gb|EOD44857.1| putative translation initiation factor 4b protein [Neofusicoccum 
+>gb|EOD52403.1| putative rsc complex subunit protein [Neofusicoccum parvum UCRNP2]
+>gb|EON69254.1| hypothetical protein W97_08514, partial [Coniosporium apollinis 
+>gb|EON99146.1| putative gln pro-rich protein [Togninia minima UCRPA7]
+>gb|EOO01458.1| putative swi snf complex protein [Togninia minima UCRPA7]
+>gb|EOO01603.1| putative translation initiation factor 4b protein [Togninia minima 
+>gb|EOQ98710.1| putative RNA-binding protein sce3 [Wallemia ichthyophaga EXF-994]
+>gb|EOR00225.1| hypothetical protein J056_001111 [Wallemia ichthyophaga EXF-994]
+>gb|EOR04766.1| SWI/SNF and RSC complexes subunit ssr2 [Wallemia ichthyophaga 
+>gb|EOX91899.1| Methylmalonate-semialdehyde dehydrogenase [Theobroma cacao]
+>gb|EOX98631.1| Aldehyde dehydrogenase 6B2 [Theobroma cacao]
+>gb|EOX99450.1| Uncharacterized protein TCM_046723, partial [Theobroma cacao]
+>gb|EPB83616.1| hypothetical protein HMPREF1544_09659 [Mucor circinelloides f. 
+>gb|EPB83897.1| hypothetical protein HMPREF1544_09351 [Mucor circinelloides f. 
+>gb|EPB86398.1| transcriptional adapter 2-alpha [Mucor circinelloides f. circinelloides 
+>gb|EPE08341.1| swi snf complex protein [Ophiostoma piceae UAMH 11346]
+>gb|EPE10977.1| translation initiation factor 4b [Ophiostoma piceae UAMH 11346]
+>gb|EPE11002.1| gln pro-rich protein [Ophiostoma piceae UAMH 11346]
+>gb|EPE28401.1| hypothetical protein GLAREA_09521 [Glarea lozoyensis ATCC 20868]
+>gb|EPE31084.1| Homeo [Glarea lozoyensis ATCC 20868]
+>gb|EPE35607.1| RNA-binding, RBD [Glarea lozoyensis ATCC 20868]
+>pdb|2DNG|A Chain A, Solution Structure Of Rna Binding Domain In Eukaryotic 
+>pdb|2FQ3|A Chain A, Structure And Function Of The Swirm Domain, A Conserved 
+>ref|NP_001005064.1| eukaryotic translation initiation factor 4B [Xenopus (Silurana) 
+>ref|NP_001015319.1| eukaryotic initiation factor 4B, isoform B [Drosophila melanogaster]
+>ref|NP_001037660.1| eukaryotic translation initiation factor 4H [Bombyx mori]
+>ref|NP_001074330.1| eukaryotic translation initiation factor 4H [Gallus gallus]
+>ref|NP_001080332.1| SWI/SNF related, matrix associated, actin dependent regulator 
+>ref|NP_001082836.1| SWI/SNF related, matrix associated, actin dependent regulator 
+>ref|NP_001085396.1| SWI/SNF related, matrix associated, actin dependent regulator 
+>ref|NP_001092707.2| eukaryotic translation initiation factor 4Ba [Danio rerio]
+>ref|NP_001096677.1| eukaryotic translation initiation factor 4H [Xenopus (Silurana) 
+>ref|NP_001184258.1| eukaryotic translation initiation factor 4H isoform 3 [Danio 
+>ref|NP_001256907.1| Protein SWSN-1, isoform c [Caenorhabditis elegans]
+>ref|NP_015489.1| Tif3p [Saccharomyces cerevisiae S288c]
+>ref|NP_116695.3| Rsc8p [Saccharomyces cerevisiae S288c]
+>ref|NP_524373.1| moira, isoform A [Drosophila melanogaster]
+>ref|NP_593800.1| SWI/SNF and RSC complex subunit Ssr2 [Schizosaccharomyces pombe 
+>ref|NP_595728.1| translation initiation factor (predicted) [Schizosaccharomyces 
+>ref|NP_984726.2| AEL135Cp [Ashbya gossypii ATCC 10895]
+>ref|XP_001097669.2| PREDICTED: SWI/SNF complex subunit SMARCC2-like [Macaca mulatta]
+>ref|XP_001101468.2| PREDICTED: eukaryotic translation initiation factor 4B [Macaca 
+>ref|XP_001115324.2| PREDICTED: eukaryotic translation initiation factor 4B, partial 
+>ref|XP_001211476.1| conserved hypothetical protein [Aspergillus terreus NIH2624]
+>ref|XP_001215561.1| conserved hypothetical protein [Aspergillus terreus NIH2624]
+>ref|XP_001218326.1| hypothetical protein ATEG_09704 [Aspergillus terreus NIH2624]
+>ref|XP_001221648.1| hypothetical protein CHGG_05553 [Chaetomium globosum CBS 148.51]
+>ref|XP_001223763.1| hypothetical protein CHGG_04549 [Chaetomium globosum CBS 148.51]
+>ref|XP_001227878.1| hypothetical protein CHGG_09951 [Chaetomium globosum CBS 148.51]
+>ref|XP_001229584.1| hypothetical protein CHGG_03068 [Chaetomium globosum CBS 148.51]
+>ref|XP_001260375.1| isochorismatase family hydrolase, putative [Neosartorya fischeri 
+>ref|XP_001261105.1| translation initiation factor 4B [Neosartorya fischeri NRRL 181]
+>ref|XP_001261495.1| RSC complex subunit (RSC8), putative [Neosartorya fischeri NRRL 
+>ref|XP_001273387.1| RSC complex subunit (RSC8), putative [Aspergillus clavatus NRRL 
+>ref|XP_001275920.1| translation initiation factor 4B [Aspergillus clavatus NRRL 1]
+>ref|XP_001366953.1| PREDICTED: eukaryotic translation initiation factor 4H-like isoform 
+>ref|XP_001384570.2| general RNA polymerase II transcription factor [Scheffersomyces 
+>ref|XP_001384619.2| suppressor of DNA polymerase and splicing mutations [Scheffersomyces 
+>ref|XP_001384729.2| hypothetical protein PICST_84007 [Scheffersomyces stipitis CBS 
+>ref|XP_001385644.2| hypothetical transcription factor [Scheffersomyces stipitis CBS 
+>ref|XP_001517685.2| PREDICTED: SWI/SNF complex subunit SMARCC1, partial [Ornithorhynchus 
+>ref|XP_001521833.2| PREDICTED: eukaryotic translation initiation factor 4H-like, 
+>ref|XP_001523938.1| hypothetical protein LELG_04751 [Lodderomyces elongisporus NRRL 
+>ref|XP_001525470.1| hypothetical protein LELG_03398 [Lodderomyces elongisporus NRRL 
+>ref|XP_001525895.1| hypothetical protein LELG_02453 [Lodderomyces elongisporus NRRL 
+>ref|XP_001527127.1| conserved hypothetical protein [Lodderomyces elongisporus NRRL 
+>ref|XP_001552219.1| hypothetical protein BC1G_08697 [Botryotinia fuckeliana B05.10]
+>ref|XP_001558330.1| hypothetical protein BC1G_02994 [Botryotinia fuckeliana B05.10]
+>ref|XP_001590979.1| hypothetical protein SS1G_07603 [Sclerotinia sclerotiorum 1980]
+>ref|XP_001599359.2| PREDICTED: eukaryotic translation initiation factor 4H-like [Nasonia 
+>ref|XP_001605573.2| PREDICTED: SWI/SNF complex subunit SMARCC2 [Nasonia vitripennis]
+>ref|XP_001631718.1| predicted protein [Nematostella vectensis]
+>ref|XP_001641517.1| predicted protein [Nematostella vectensis]
+>ref|XP_001641544.1| predicted protein [Nematostella vectensis]
+>ref|XP_001645600.1| hypothetical protein Kpol_1033p48 [Vanderwaltozyma polyspora 
+>ref|XP_001646237.1| hypothetical protein Kpol_1013p51 [Vanderwaltozyma polyspora 
+>ref|XP_001646393.1| hypothetical protein Kpol_2001p40 [Vanderwaltozyma polyspora 
+>ref|XP_001648293.1| splicing factor, putative [Aedes aegypti]
+>ref|XP_001649009.1| hypothetical protein AaeL_AAEL004358 [Aedes aegypti]
+>ref|XP_001729038.1| hypothetical protein MGL_3826 [Malassezia globosa CBS 7966]
+>ref|XP_001729831.1| hypothetical protein MGL_2817 [Malassezia globosa CBS 7966]
+>ref|XP_001746135.1| hypothetical protein [Monosiga brevicollis MX1]
+>ref|XP_001746431.1| hypothetical protein [Monosiga brevicollis MX1]
+>ref|XP_001788668.2| PREDICTED: SWI/SNF complex subunit SMARCC1 [Bos taurus]
+>ref|XP_001796347.1| hypothetical protein SNOG_05958 [Phaeosphaeria nodorum SN15]
+>ref|XP_001800268.1| hypothetical protein SNOG_09984 [Phaeosphaeria nodorum SN15]
+>ref|XP_001812334.1| PREDICTED: similar to moira CG18740-PA [Tribolium castaneum]
+>ref|XP_001822446.2| translation initiation factor 4B [Aspergillus oryzae RIB40]
+>ref|XP_001832346.2| Smarcc1 protein [Coprinopsis cinerea okayama7#130]
+>ref|XP_001836138.1| hypothetical protein CC1G_10919 [Coprinopsis cinerea okayama7#130]
+>ref|XP_001866273.1| conserved hypothetical protein [Culex quinquefasciatus]
+>ref|XP_001880764.1| predicted protein [Laccaria bicolor S238N-H82]
+>ref|XP_001881226.1| SWI/SNF complex protein [Laccaria bicolor S238N-H82]
+>ref|XP_001895564.1| SWIRM domain containing protein [Brugia malayi]
+>ref|XP_001907911.1| hypothetical protein [Podospora anserina S mat+]
+>ref|XP_001908500.1| hypothetical protein [Podospora anserina S mat+]
+>ref|XP_001910370.1| hypothetical protein [Podospora anserina S mat+]
+>ref|XP_001943274.2| PREDICTED: SWI/SNF complex subunit SMARCC2-like [Acyrthosiphon 
+>ref|XP_001948965.2| PREDICTED: hypothetical protein LOC100167279 [Acyrthosiphon pisum]
+>ref|XP_001952564.1| PREDICTED: eukaryotic translation initiation factor 4H-like [Acyrthosiphon 
+>ref|XP_001955001.1| GF16465 [Drosophila ananassae]
+>ref|XP_001970955.1| GG10934 [Drosophila erecta]
+>ref|XP_001990830.1| GH18041 [Drosophila grimshawi]
+>ref|XP_001994213.1| GH13267 [Drosophila grimshawi]
+>ref|XP_001999647.1| GI24634 [Drosophila mojavensis]
+>ref|XP_002017051.1| GL21720 [Drosophila persimilis]
+>ref|XP_002023289.1| GL20267 [Drosophila persimilis]
+>ref|XP_002053232.1| GJ23456 [Drosophila virilis]
+>ref|XP_002055013.1| GJ19028 [Drosophila virilis]
+>ref|XP_002070650.1| GK10920 [Drosophila willistoni]
+>ref|XP_002087000.1| GE18125 [Drosophila yakuba]
+>ref|XP_002103242.1| GD20313 [Drosophila simulans]
+>ref|XP_002108517.1| hypothetical protein TRIADDRAFT_51503 [Trichoplax adhaerens]
+>ref|XP_002110028.1| hypothetical protein TRIADDRAFT_53556 [Trichoplax adhaerens]
+>ref|XP_002116559.1| hypothetical protein TRIADDRAFT_31063 [Trichoplax adhaerens]
+>ref|XP_002119962.1| PREDICTED: eukaryotic translation initiation factor 4H-like [Ciona 
+>ref|XP_002120527.2| PREDICTED: SWI/SNF complex subunit SMARCC2 [Ciona intestinalis]
+>ref|XP_002120923.1| PREDICTED: eukaryotic translation initiation factor 4B [Ciona 
+>ref|XP_002145170.1| translation initiation factor 4B [Talaromyces marneffei ATCC 
+>ref|XP_002148622.1| conserved hypothetical protein [Talaromyces marneffei ATCC 18224]
+>ref|XP_002148689.1| RSC complex subunit (RSC8), putative [Talaromyces marneffei ATCC 
+>ref|XP_002149477.1| hypothetical protein PMAA_099000 [Talaromyces marneffei ATCC 
+>ref|XP_002155675.1| PREDICTED: eukaryotic translation initiation factor 4H-like [Hydra 
+>ref|XP_002159289.2| PREDICTED: eukaryotic translation initiation factor 4B-like, 
+>ref|XP_002161365.2| PREDICTED: SWI/SNF complex subunit SMARCC2-like [Hydra magnipapillata]
+>ref|XP_002173653.1| SWI/SNF and RSC complex subunit Ssr2 [Schizosaccharomyces japonicus 
+>ref|XP_002174580.1| eukaryotic translation initiation factor 4H [Schizosaccharomyces 
+>ref|XP_002191461.2| PREDICTED: eukaryotic translation initiation factor 4H isoform 
+>ref|XP_002191531.2| PREDICTED: SWI/SNF complex subunit SMARCC1, partial [Taeniopygia 
+>ref|XP_002266379.2| PREDICTED: uncharacterized protein LOC100254417 [Vitis vinifera]
+>ref|XP_002266616.2| PREDICTED: methylmalonate-semialdehyde dehydrogenase [acylating], 
+>ref|XP_002307308.1| predicted protein [Populus trichocarpa]
+>ref|XP_002340201.1| translation initiation factor 4B [Talaromyces stipitatus ATCC 
+>ref|XP_002415509.1| SWI/SNF complex subunit SMARCC2, putative [Ixodes scapularis]
+>ref|XP_002417875.1| conserved hypothetical protein [Candida dubliniensis CD36]
+>ref|XP_002418401.1| SWI/SNF complex component SWI3, putative; chromatin remodelling 
+>ref|XP_002418622.1| transcriptional activator, putative [Candida dubliniensis CD36]
+>ref|XP_002420943.1| eukaryotic translation initiation factor 4B (eIF-4B), putative 
+>ref|XP_002431232.1| conserved hypothetical protein [Pediculus humanus corporis]
+>ref|XP_002478867.1| isochorismatase family hydrolase, putative [Talaromyces stipitatus 
+>ref|XP_002481393.1| Mutator-like element  transposase, putative [Talaromyces stipitatus 
+>ref|XP_002485550.1| RSC complex subunit (RSC8), putative [Talaromyces stipitatus 
+>ref|XP_002488220.1| conserved hypothetical protein [Talaromyces stipitatus ATCC 10500]
+>ref|XP_002490431.1| Subunit of the SWI/SNF chromatin remodeling complex [Komagataella 
+>ref|XP_002490485.1| hypothetical protein [Komagataella pastoris GS115]
+>ref|XP_002492771.1| Component of the RSC chromatin remodeling complex [Komagataella 
+>ref|XP_002493133.1| hypothetical protein [Komagataella pastoris GS115]
+>ref|XP_002495994.1| ZYRO0C08008p [Zygosaccharomyces rouxii]
+>ref|XP_002496499.1| ZYRO0D01540p [Zygosaccharomyces rouxii]
+>ref|XP_002497128.1| ZYRO0D16060p [Zygosaccharomyces rouxii]
+>ref|XP_002498376.1| ZYRO0G08778p [Zygosaccharomyces rouxii]
+>ref|XP_002518342.1| methylmalonate-semialdehyde dehydrogenase, putative [Ricinus 
+>ref|XP_002532382.1| methylmalonate-semialdehyde dehydrogenase, putative [Ricinus 
+>ref|XP_002547303.1| predicted protein [Candida tropicalis MYA-3404]
+>ref|XP_002547433.1| predicted protein [Candida tropicalis MYA-3404]
+>ref|XP_002548555.1| conserved hypothetical protein [Candida tropicalis MYA-3404]
+>ref|XP_002549309.1| conserved hypothetical protein [Candida tropicalis MYA-3404]
+>ref|XP_002551605.1| KLTH0A03388p [Lachancea thermotolerans]
+>ref|XP_002554397.1| KLTH0F04356p [Lachancea thermotolerans]
+>ref|XP_002554991.1| KLTH0F18524p [Lachancea thermotolerans]
+>ref|XP_002556067.1| KLTH0H04246p [Lachancea thermotolerans]
+>ref|XP_002557502.1| Pc12g06620 [Penicillium chrysogenum Wisconsin 54-1255]
+>ref|XP_002567088.1| Pc21g00130 [Penicillium chrysogenum Wisconsin 54-1255]
+>ref|XP_002576972.1| SWI/SNF complex-related [Schistosoma mansoni]
+>ref|XP_002583399.1| conserved hypothetical protein [Uncinocarpus reesii 1704]
+>ref|XP_002584132.1| predicted protein [Uncinocarpus reesii 1704]
+>ref|XP_002595870.1| hypothetical protein BRAFLDRAFT_123774 [Branchiostoma floridae]
+>ref|XP_002602152.1| hypothetical protein BRAFLDRAFT_158603 [Branchiostoma floridae]
+>ref|XP_002607630.1| hypothetical protein BRAFLDRAFT_84681 [Branchiostoma floridae]
+>ref|XP_002614269.1| hypothetical protein CLUG_05755 [Clavispora lusitaniae ATCC 42720]
+>ref|XP_002614325.1| predicted protein [Clavispora lusitaniae ATCC 42720]
+>ref|XP_002615796.1| hypothetical protein CLUG_04678 [Clavispora lusitaniae ATCC 42720]
+>ref|XP_002617165.1| hypothetical protein CLUG_02609 [Clavispora lusitaniae ATCC 42720]
+>ref|XP_002624110.1| RSC complex subunit [Ajellomyces dermatitidis SLH14081]
+>ref|XP_002638484.1| C. briggsae CBR-PSA-1 protein [Caenorhabditis briggsae]
+>ref|XP_002670557.1| predicted protein [Naegleria gruberi]
+>ref|XP_002707826.2| PREDICTED: LOW QUALITY PROTEIN: SWI/SNF complex subunit SMARCC1 
+>ref|XP_002726902.1| PREDICTED: SWI/SNF complex subunit SMARCC2-like [Rattus norvegicus]
+>ref|XP_002729813.2| PREDICTED: SWI/SNF complex subunit SMARCC2-like [Rattus norvegicus]
+>ref|XP_002766762.1| eukaryotic translation initiation factor 4B/4H, putative [Perkinsus 
+>ref|XP_002770774.1| DEHA2F08206p [Debaryomyces hansenii CBS767]
+>ref|XP_002791453.1| translation initiation factor 4B [Paracoccidioides sp. 'lutzii' 
+>ref|XP_002802899.1| PREDICTED: SWI/SNF complex subunit SMARCC1-like [Macaca mulatta]
+>ref|XP_002828225.1| PREDICTED: eukaryotic translation initiation factor 4B-like isoform 
+>ref|XP_002836015.1| hypothetical protein [Tuber melanosporum Mel28]
+>ref|XP_002839674.1| hypothetical protein [Tuber melanosporum Mel28]
+>ref|XP_002846485.1| transcription regulatory protein SWI3 [Arthroderma otae CBS 113480]
+>ref|XP_002848330.1| translation initiation factor 4B [Arthroderma otae CBS 113480]
+>ref|XP_002942764.2| PREDICTED: LOW QUALITY PROTEIN: SWI/SNF complex subunit SMARCC1 
+>ref|XP_003003375.1| translation initiation factor 4B [Verticillium albo-atrum VaMs.102]
+>ref|XP_003004724.1| transcription regulatory protein SWI3 [Verticillium albo-atrum 
+>ref|XP_003026195.1| hypothetical protein SCHCODRAFT_45556 [Schizophyllum commune 
+>ref|XP_003027629.1| hypothetical protein SCHCODRAFT_258604 [Schizophyllum commune 
+>ref|XP_003031818.1| hypothetical protein SCHCODRAFT_257213 [Schizophyllum commune 
+>ref|XP_003039891.1| SWI/SNF complex protein [Nectria haematococca mpVI 77-13-4]
+>ref|XP_003044847.1| hypothetical protein NECHADRAFT_42935 [Nectria haematococca mpVI 
+>ref|XP_003055797.1| predicted protein [Micromonas pusilla CCMP1545]
+>ref|XP_003067396.1| RNA recognition motif containing protein [Coccidioides posadasii 
+>ref|XP_003105219.1| CRE-PSA-1 protein [Caenorhabditis remanei]
+>ref|XP_003140015.1| hypothetical protein LOAG_04430 [Loa loa]
+>ref|XP_003196860.1| RNA-binding protein sce3 [Cryptococcus gattii WM276]
+>ref|XP_003200294.1| PREDICTED: SWI/SNF complex subunit SMARCC1 [Danio rerio]
+>ref|XP_003214175.1| PREDICTED: eukaryotic translation initiation factor 4B-like, 
+>ref|XP_003217053.1| PREDICTED: SWI/SNF complex subunit SMARCC2-like [Anolis carolinensis]
+>ref|XP_003224491.1| PREDICTED: eukaryotic translation initiation factor 4B-like [Anolis 
+>ref|XP_003228370.1| PREDICTED: SWI/SNF complex subunit SMARCC1-like [Anolis carolinensis]
+>ref|XP_003229402.1| PREDICTED: eukaryotic translation initiation factor 4H-like isoform 
+>ref|XP_003252470.2| PREDICTED: SWI/SNF complex subunit SMARCC2 [Nomascus leucogenys]
+>ref|XP_003298139.1| hypothetical protein PTT_08746 [Pyrenophora teres f. teres 0-1]
+>ref|XP_003300256.1| hypothetical protein PTT_11446 [Pyrenophora teres f. teres 0-1]
+>ref|XP_003319835.1| transcriptional adapter 2-alpha [Puccinia graminis f. sp. tritici 
+>ref|XP_003322234.2| hypothetical protein PGTG_03771, partial [Puccinia graminis f. 
+>ref|XP_003335391.2| hypothetical protein PGTG_17244 [Puccinia graminis f. sp. tritici 
+>ref|XP_003348869.1| hypothetical protein SMAC_01892 [Sordaria macrospora k-hell]
+>ref|XP_003350417.1| hypothetical protein SMAC_02129 [Sordaria macrospora k-hell]
+>ref|XP_003358471.2| PREDICTED: SWI/SNF complex subunit SMARCC1-like [Sus scrofa]
+>ref|XP_003378681.1| eukaryotic translation initiation factor 4H [Trichinella spiralis]
+>ref|XP_003384902.1| PREDICTED: SWI/SNF complex subunit SMARCC2 [Amphimedon queenslandica]
+>ref|XP_003391540.1| PREDICTED: SWI/SNF complex subunit SMARCC2-like, partial [Amphimedon 
+>ref|XP_003399761.1| PREDICTED: eukaryotic translation initiation factor 4H-like [Bombus 
+>ref|XP_003441440.1| PREDICTED: eukaryotic translation initiation factor 4B-like [Oreochromis 
+>ref|XP_003450345.1| PREDICTED: SWI/SNF complex subunit SMARCC1 [Oreochromis niloticus]
+>ref|XP_003463097.1| PREDICTED: eukaryotic translation initiation factor 4B-like [Cavia 
+>ref|XP_003476019.1| PREDICTED: SWI/SNF complex subunit SMARCC2-like [Cavia porcellus]
+>ref|XP_003486922.1| PREDICTED: SWI/SNF complex subunit SMARCC2-like [Bombus impatiens]
+>ref|XP_003504309.1| PREDICTED: SWI/SNF complex subunit SMARCC1-like [Cricetulus griseus]
+>ref|XP_003506270.1| PREDICTED: SWI/SNF complex subunit SMARCC2-like [Cricetulus griseus]
+>ref|XP_003518690.1| PREDICTED: uncharacterized protein LOC100805365 [Glycine max]
+>ref|XP_003528477.1| PREDICTED: glutamate receptor 2.7-like [Glycine max]
+>ref|XP_003530071.1| PREDICTED: uncharacterized protein LOC100787990 [Glycine max]
+>ref|XP_003533467.1| PREDICTED: uncharacterized protein LOC100782358 [Glycine max]
+>ref|XP_003536822.1| PREDICTED: uncharacterized protein LOC100800409 [Glycine max]
+>ref|XP_003537016.1| PREDICTED: protein FAR1-RELATED SEQUENCE 5-like [Glycine max]
+>ref|XP_003545621.1| PREDICTED: protein FAR1-RELATED SEQUENCE 5-like [Glycine max]
+>ref|XP_003555098.1| PREDICTED: protein FAR1-RELATED SEQUENCE 5-like [Glycine max]
+>ref|XP_003588789.1| Otubain [Medicago truncatula]
+>ref|XP_003590330.1| FAR1-related protein [Medicago truncatula]
+>ref|XP_003590802.1| hypothetical protein MTR_1g075420 [Medicago truncatula]
+>ref|XP_003590954.1| Otubain [Medicago truncatula]
+>ref|XP_003592123.1| hypothetical protein MTR_1g098990 [Medicago truncatula]
+>ref|XP_003592137.1| Otubain [Medicago truncatula]
+>ref|XP_003592325.1| FAR-RED ELONGATED HYPOCOTYL [Medicago truncatula]
+>ref|XP_003592731.1| hypothetical protein MTR_1g114470 [Medicago truncatula]
+>ref|XP_003593133.1| Glycine-rich RNA-binding protein [Medicago truncatula]
+>ref|XP_003593586.1| FAR1-related protein [Medicago truncatula]
+>ref|XP_003595442.1| hypothetical protein MTR_2g045510 [Medicago truncatula]
+>ref|XP_003597299.1| Far-red impaired response-like protein [Medicago truncatula]
+>ref|XP_003598560.1| hypothetical protein MTR_3g015530 [Medicago truncatula]
+>ref|XP_003599183.1| hypothetical protein MTR_3g029910 [Medicago truncatula]
+>ref|XP_003599539.1| Otubain [Medicago truncatula]
+>ref|XP_003600744.1| hypothetical protein MTR_3g067290 [Medicago truncatula]
+>ref|XP_003601029.1| hypothetical protein MTR_3g072200 [Medicago truncatula]
+>ref|XP_003601974.1| Otubain [Medicago truncatula]
+>ref|XP_003603929.1| hypothetical protein MTR_3g116710 [Medicago truncatula]
+>ref|XP_003604642.1| Otubain [Medicago truncatula]
+>ref|XP_003609211.1| FAR1-related protein [Medicago truncatula]
+>ref|XP_003609654.1| FAR1-related protein [Medicago truncatula]
+>ref|XP_003613012.1| hypothetical protein MTR_5g031650 [Medicago truncatula]
+>ref|XP_003614198.1| hypothetical protein MTR_5g046160 [Medicago truncatula]
+>ref|XP_003614651.1| hypothetical protein MTR_5g056740 [Medicago truncatula]
+>ref|XP_003615671.1| hypothetical protein MTR_5g070810 [Medicago truncatula]
+>ref|XP_003615839.1| hypothetical protein MTR_5g072950 [Medicago truncatula]
+>ref|XP_003616379.1| Iron-regulated transcriptional activator AFT2 [Medicago truncatula]
+>ref|XP_003618978.1| Galactose-1-phosphate uridylyltransferase [Medicago truncatula]
+>ref|XP_003620097.1| hypothetical protein MTR_6g075990 [Medicago truncatula]
+>ref|XP_003620709.1| hypothetical protein MTR_6g089230 [Medicago truncatula]
+>ref|XP_003620801.1| hypothetical protein MTR_6g090600 [Medicago truncatula]
+>ref|XP_003621248.1| hypothetical protein MTR_7g010970 [Medicago truncatula]
+>ref|XP_003623142.1| hypothetical protein MTR_7g064870 [Medicago truncatula]
+>ref|XP_003630820.1| FAR1-related protein [Medicago truncatula]
+>ref|XP_003631136.1| FAR1-related protein [Medicago truncatula]
+>ref|XP_003636391.1| FAR1-related protein [Medicago truncatula]
+>ref|XP_003640717.2| PREDICTED: SWI/SNF complex subunit SMARCC1 [Gallus gallus]
+>ref|XP_003642446.1| PREDICTED: eukaryotic translation initiation factor 4H-like isoformX2 
+>ref|XP_003643456.2| PREDICTED: eukaryotic translation initiation factor 4B [Gallus 
+>ref|XP_003644772.1| hypothetical protein Ecym_2206 [Eremothecium cymbalariae DBVPG#7215]
+>ref|XP_003646236.1| hypothetical protein Ecym_4359 [Eremothecium cymbalariae DBVPG#7215]
+>ref|XP_003647873.1| hypothetical protein Ecym_7208 [Eremothecium cymbalariae DBVPG#7215]
+>ref|XP_003648227.1| hypothetical protein Ecym_8116 [Eremothecium cymbalariae DBVPG#7215]
+>ref|XP_003653059.1| SWI/SNF complex protein-like protein [Thielavia terrestris NRRL 
+>ref|XP_003655457.1| hypothetical protein THITE_2119158 [Thielavia terrestris NRRL 
+>ref|XP_003655906.1| hypothetical protein THITE_134757 [Thielavia terrestris NRRL 
+>ref|XP_003660395.1| SWI/SNF complex-like protein [Myceliophthora thermophila ATCC 
+>ref|XP_003662625.1| hypothetical protein MYCTH_2315027, partial [Myceliophthora thermophila 
+>ref|XP_003663113.1| hypothetical protein MYCTH_2080003 [Myceliophthora thermophila 
+>ref|XP_003666065.1| hypothetical protein MYCTH_2310460 [Myceliophthora thermophila 
+>ref|XP_003668308.1| hypothetical protein NDAI_0B00310 [Naumovozyma dairenensis CBS 
+>ref|XP_003669577.1| hypothetical protein NDAI_0D00200 [Naumovozyma dairenensis CBS 
+>ref|XP_003670728.1| hypothetical protein NDAI_0F01660 [Naumovozyma dairenensis CBS 
+>ref|XP_003671922.1| hypothetical protein NDAI_0I01100 [Naumovozyma dairenensis CBS 
+>ref|XP_003672923.1| hypothetical protein NDAI_0L01960 [Naumovozyma dairenensis CBS 
+>ref|XP_003673062.1| hypothetical protein NCAS_0A01110 [Naumovozyma castellii CBS 
+>ref|XP_003676321.1| hypothetical protein NCAS_0D03790 [Naumovozyma castellii CBS 
+>ref|XP_003676607.1| hypothetical protein NCAS_0E01770 [Naumovozyma castellii CBS 
+>ref|XP_003677685.1| hypothetical protein NCAS_0H00240 [Naumovozyma castellii CBS 
+>ref|XP_003678303.1| hypothetical protein NCAS_0I02930 [Naumovozyma castellii CBS 
+>ref|XP_003681973.1| hypothetical protein TDEL_0E05190 [Torulaspora delbrueckii]
+>ref|XP_003682780.1| hypothetical protein TDEL_0G02020 [Torulaspora delbrueckii]
+>ref|XP_003683124.1| hypothetical protein TDEL_0H00540 [Torulaspora delbrueckii]
+>ref|XP_003683313.1| hypothetical protein TDEL_0H02430 [Torulaspora delbrueckii]
+>ref|XP_003683784.1| hypothetical protein TPHA_0A02680 [Tetrapisispora phaffii CBS 
+>ref|XP_003685810.1| hypothetical protein TPHA_0E02860 [Tetrapisispora phaffii CBS 
+>ref|XP_003687246.1| hypothetical protein TPHA_0I03110 [Tetrapisispora phaffii CBS 
+>ref|XP_003697409.1| PREDICTED: eukaryotic translation initiation factor 4H-like [Apis 
+>ref|XP_003704984.1| PREDICTED: eukaryotic translation initiation factor 4H-like [Megachile 
+>ref|XP_003712822.1| translation initiation factor 4B [Magnaporthe oryzae 70-15]
+>ref|XP_003712856.1| hypothetical protein MGG_05295 [Magnaporthe oryzae 70-15]
+>ref|XP_003714717.1| transcription regulatory protein SWI3 [Magnaporthe oryzae 70-15]
+>ref|XP_003742137.1| PREDICTED: eukaryotic translation initiation factor 4H-like [Metaseiulus 
+>ref|XP_003745175.1| PREDICTED: SWI/SNF complex subunit SMARCC2-like [Metaseiulus 
+>ref|XP_003746857.1| PREDICTED: SWI/SNF complex subunit SMARCC2 [Metaseiulus occidentalis]
+>ref|XP_003746965.1| PREDICTED: uncharacterized protein LOC100908041 [Metaseiulus 
+>ref|XP_003754833.1| PREDICTED: LOW QUALITY PROTEIN: eukaryotic translation initiation 
+>ref|XP_003762247.1| PREDICTED: SWI/SNF complex subunit SMARCC1, partial [Sarcophilus 
+>ref|XP_003772219.1| PREDICTED: SWI/SNF complex subunit SMARCC2 [Sarcophilus harrisii]
+>ref|XP_003772459.1| PREDICTED: eukaryotic translation initiation factor 4B [Sarcophilus 
+>ref|XP_003799186.1| PREDICTED: eukaryotic translation initiation factor 4H-like [Otolemur 
+>ref|XP_003815606.1| PREDICTED: eukaryotic translation initiation factor 4H [Pan paniscus]
+>ref|XP_003831130.1| PREDICTED: eukaryotic translation initiation factor 4B [Pan paniscus]
+>ref|XP_003840015.1| hypothetical protein LEMA_P108010.1 [Leptosphaeria maculans JN3]
+>ref|XP_003842739.1| hypothetical protein LEMA_P084990.1 [Leptosphaeria maculans JN3]
+>ref|XP_003848758.1| SWI/SNF complex protein [Zymoseptoria tritici IPO323]
+>ref|XP_003855053.1| hypothetical protein MYCGRDRAFT_108180 [Zymoseptoria tritici 
+>ref|XP_003867663.1| hypothetical protein CORT_0B05180 [Candida orthopsilosis Co 90-125]
+>ref|XP_003868727.1| hypothetical protein CORT_0C04500 [Candida orthopsilosis Co 90-125]
+>ref|XP_003868869.1| Aft2 transcription factor [Candida orthopsilosis Co 90-125]
+>ref|XP_003869258.1| hypothetical protein CORT_0D02770 [Candida orthopsilosis Co 90-125]
+>ref|XP_003870705.1| Tif3 translation initiation factor [Candida orthopsilosis Co 
+>ref|XP_003889821.1| hypothetical protein PGTG_21623 [Puccinia graminis f. sp. tritici 
+>ref|XP_003906623.1| PREDICTED: SWI/SNF complex subunit SMARCC2 isoform 1 [Papio anubis]
+>ref|XP_003954884.1| hypothetical protein KAFR_0A03140 [Kazachstania africana CBS 
+>ref|XP_003956354.1| hypothetical protein KAFR_0C02260 [Kazachstania africana CBS 
+>ref|XP_003957904.1| hypothetical protein KAFR_0F01720 [Kazachstania africana CBS 
+>ref|XP_003959524.1| hypothetical protein KAFR_0K00340 [Kazachstania africana CBS 
+>ref|XP_003959809.1| hypothetical protein KAFR_0L00670 [Kazachstania africana CBS 
+>ref|XP_003965875.1| PREDICTED: SWI/SNF complex subunit SMARCC1-like [Takifugu rubripes]
+>ref|XP_003968368.1| PREDICTED: eukaryotic translation initiation factor 4H-like isoform 
+>ref|XP_003968916.1| PREDICTED: SWI/SNF complex subunit SMARCC1-like [Takifugu rubripes]
+>ref|XP_003973211.1| PREDICTED: SWI/SNF complex subunit SMARCC2-like [Takifugu rubripes]
+>ref|XP_003973672.1| PREDICTED: LOW QUALITY PROTEIN: eukaryotic translation initiation 
+>ref|XP_003982246.1| PREDICTED: SWI/SNF complex subunit SMARCC1 [Felis catus]
+>ref|XP_003998642.1| PREDICTED: eukaryotic translation initiation factor 4H [Felis 
+>ref|XP_004018714.1| PREDICTED: SWI/SNF complex subunit SMARCC1 [Ovis aries]
+>ref|XP_004023743.1| PREDICTED: LOW QUALITY PROTEIN: SWI/SNF complex subunit SMARCC2 
+>ref|XP_004034109.1| PREDICTED: SWI/SNF complex subunit SMARCC1 [Gorilla gorilla gorilla]
+>ref|XP_004069226.1| PREDICTED: eukaryotic translation initiation factor 4B-like [Oryzias 
+>ref|XP_004074033.1| PREDICTED: SWI/SNF complex subunit SMARCC1-like [Oryzias latipes]
+>ref|XP_004078529.1| PREDICTED: SWI/SNF complex subunit SMARCC1-like [Oryzias latipes]
+>ref|XP_004084957.1| PREDICTED: SWI/SNF complex subunit SMARCC2-like, partial [Oryzias 
+>ref|XP_004085773.1| PREDICTED: eukaryotic translation initiation factor 4H-like, 
+>ref|XP_004175858.1| PREDICTED: SWI/SNF complex subunit SMARCC1-like, partial [Taeniopygia 
+>ref|XP_004175949.1| PREDICTED: LOW QUALITY PROTEIN: eukaryotic translation initiation 
+>ref|XP_004177522.1| hypothetical protein TBLA_0A02020 [Tetrapisispora blattae CBS 
+>ref|XP_004180485.1| hypothetical protein TBLA_0D04700 [Tetrapisispora blattae CBS 
+>ref|XP_004182542.1| hypothetical protein TBLA_0J00230 [Tetrapisispora blattae CBS 
+>ref|XP_004182626.1| hypothetical protein TBLA_0J01090 [Tetrapisispora blattae CBS 
+>ref|XP_004196264.1| Piso0_005718 [Millerozyma farinosa CBS 7064]
+>ref|XP_004196763.1| Piso0_003988 [Millerozyma farinosa CBS 7064]
+>ref|XP_004199066.1| Piso0_002471 [Millerozyma farinosa CBS 7064]
+>ref|XP_004204592.1| Piso0_000448 [Millerozyma farinosa CBS 7064]
+>ref|XP_004205347.1| Piso0_003591 [Millerozyma farinosa CBS 7064]
+>ref|XP_004288501.1| PREDICTED: methylmalonate-semialdehyde dehydrogenase [acylating], 
+>ref|XP_004290398.1| PREDICTED: methylmalonate-semialdehyde dehydrogenase [acylating], 
+>ref|XP_004300313.1| PREDICTED: uncharacterized protein LOC101306139 [Fragaria vesca 
+>ref|XP_004301844.1| PREDICTED: uncharacterized protein LOC101295345 [Fragaria vesca 
+>ref|XP_004305076.1| PREDICTED: protein FAR-RED ELONGATED HYPOCOTYL 3-like [Fragaria 
+>ref|XP_004305166.1| PREDICTED: uncharacterized protein LOC101301896 [Fragaria vesca 
+>ref|XP_004317820.1| PREDICTED: SWI/SNF complex subunit SMARCC1-like [Tursiops truncatus]
+>ref|XP_004318177.1| PREDICTED: eukaryotic translation initiation factor 4H-like [Tursiops 
+>ref|XP_004331460.1| PREDICTED: eukaryotic translation initiation factor 4B-like, 
+>ref|XP_004346255.1| SWI/SNF and RSC complex subunit Ssr2 [Capsaspora owczarzaki ATCC 
+>ref|XP_004420034.1| PREDICTED: SWI/SNF complex subunit SMARCC1 [Ceratotherium simum 
+>ref|XP_004487787.1| PREDICTED: uncharacterized protein LOC101493994 [Cicer arietinum]
+>ref|XP_004489667.1| PREDICTED: uncharacterized protein LOC101496704 [Cicer arietinum]
+>ref|XP_004489707.1| PREDICTED: probable galactose-1-phosphate uridyltransferase-like 
+>ref|XP_004490176.1| PREDICTED: uncharacterized protein LOC101507655 [Cicer arietinum]
+>ref|XP_004490281.1| PREDICTED: uncharacterized protein LOC101492816 [Cicer arietinum]
+>ref|XP_004492366.1| PREDICTED: putative protein FAR1-RELATED SEQUENCE 10-like [Cicer 
+>ref|XP_004492367.1| PREDICTED: uncharacterized protein LOC101512605 [Cicer arietinum]
+>ref|XP_004496020.1| PREDICTED: uncharacterized protein LOC101512713 [Cicer arietinum]
+>ref|XP_004498019.1| PREDICTED: uncharacterized protein LOC101509075 [Cicer arietinum]
+>ref|XP_004498709.1| PREDICTED: protein FAR1-RELATED SEQUENCE 5-like [Cicer arietinum]
+>ref|XP_004500027.1| PREDICTED: uncharacterized protein LOC101495786 [Cicer arietinum]
+>ref|XP_004500526.1| PREDICTED: protein FAR1-RELATED SEQUENCE 6-like [Cicer arietinum]
+>ref|XP_004504434.1| PREDICTED: uncharacterized protein LOC101489324 [Cicer arietinum]
+>ref|XP_004506265.1| PREDICTED: uncharacterized protein LOC101493013 [Cicer arietinum]
+>ref|XP_004506467.1| PREDICTED: uncharacterized protein LOC101494206 [Cicer arietinum]
+>ref|XP_004507516.1| PREDICTED: putative protein FAR1-RELATED SEQUENCE 10-like [Cicer 
+>ref|XP_004509805.1| PREDICTED: uncharacterized protein LOC101508280 [Cicer arietinum]
+>ref|XP_004509991.1| PREDICTED: uncharacterized protein LOC101505492 [Cicer arietinum]
+>ref|XP_004510909.1| PREDICTED: uncharacterized protein LOC101496487 [Cicer arietinum]
+>ref|XP_004511193.1| PREDICTED: protein FAR-RED ELONGATED HYPOCOTYL 3-like [Cicer 
+>ref|XP_004512852.1| PREDICTED: uncharacterized protein LOC101503590 [Cicer arietinum]
+>ref|XP_004513149.1| PREDICTED: uncharacterized protein LOC101498239 [Cicer arietinum]
+>ref|XP_004513382.1| PREDICTED: uncharacterized protein LOC101509803 [Cicer arietinum]
+>ref|XP_004514148.1| PREDICTED: uncharacterized protein LOC101505975 [Cicer arietinum]
+>ref|XP_004515102.1| PREDICTED: uncharacterized protein LOC101505858 [Cicer arietinum]
+>ref|XP_004516692.1| PREDICTED: uncharacterized protein LOC101488519 [Cicer arietinum]
+>ref|XP_004516717.1| PREDICTED: uncharacterized protein LOC101501172 [Cicer arietinum]
+>ref|XP_004517058.1| PREDICTED: uncharacterized protein LOC101513052 [Cicer arietinum]
+>ref|XP_004525044.1| PREDICTED: LOW QUALITY PROTEIN: eukaryotic translation initiation 
+>ref|XP_004526339.1| PREDICTED: eukaryotic translation initiation factor 4B-like [Ceratitis 
+>ref|XP_004536958.1| PREDICTED: SWI/SNF complex subunit SMARCC2-like isoform X1 [Ceratitis 
+>ref|XP_004545411.1| PREDICTED: SWI/SNF complex subunit SMARCC2-like [Maylandia zebra]
+>ref|XP_004545429.1| PREDICTED: eukaryotic translation initiation factor 4B-like [Maylandia 
+>ref|XP_004548019.1| PREDICTED: SWI/SNF complex subunit SMARCC1-like isoform X1 [Maylandia 
+>ref|XP_004565038.1| PREDICTED: eukaryotic translation initiation factor 4H-like isoform 
+>ref|XP_004565043.1| PREDICTED: eukaryotic translation initiation factor 4H-like isoform 
+>ref|XP_004581794.1| PREDICTED: SWI/SNF complex subunit SMARCC1 [Ochotona princeps]
+>ref|XP_004621861.1| PREDICTED: eukaryotic translation initiation factor 4H [Sorex 
+>ref|XP_004637631.1| PREDICTED: eukaryotic translation initiation factor 4H-like [Octodon 
+>ref|XP_004638061.1| PREDICTED: eukaryotic translation initiation factor 4B [Octodon 
+>ref|XP_004640843.1| PREDICTED: SWI/SNF complex subunit SMARCC1 [Octodon degus]
+>ref|XP_004640906.1| PREDICTED: eukaryotic translation initiation factor 4H-like, 
+>ref|XP_004692500.1| PREDICTED: SWI/SNF complex subunit SMARCC2 [Condylura cristata]
+>ref|XP_004704207.1| PREDICTED: SWI/SNF complex subunit SMARCC1 [Echinops telfairi]
+>ref|XP_004706056.1| PREDICTED: eukaryotic translation initiation factor 4H [Echinops 
+>ref|XP_004711506.1| PREDICTED: eukaryotic translation initiation factor 4B [Echinops 
+>ref|XP_004761814.1| PREDICTED: eukaryotic translation initiation factor 4H [Mustela 
+>ref|XP_004774721.1| PREDICTED: eukaryotic translation initiation factor 4B isoform 
+>ref|XP_004820224.1| PREDICTED: SWI/SNF complex subunit SMARCC1 [Mustela putorius 
+>ref|XP_004892977.1| PREDICTED: eukaryotic translation initiation factor 4H [Heterocephalus 
+>ref|XP_004899850.1| PREDICTED: SWI/SNF complex subunit SMARCC1 [Heterocephalus glaber]
+>ref|XP_004911932.1| PREDICTED: SWI/SNF complex subunit SMARCC2 isoform X2 [Xenopus 
+>ref|XP_004931411.1| PREDICTED: SWI/SNF complex subunit SMARCC2-like [Bombyx mori]
+>ref|XP_004946495.1| PREDICTED: eukaryotic translation initiation factor 4H-like isoform 
+>ref|XP_446754.1| hypothetical protein [Candida glabrata CBS 138]
+>ref|XP_446945.1| hypothetical protein [Candida glabrata CBS 138]
+>ref|XP_447613.1| hypothetical protein [Candida glabrata CBS 138]
+>ref|XP_449835.1| hypothetical protein [Candida glabrata CBS 138]
+>ref|XP_451286.1| hypothetical protein [Kluyveromyces lactis NRRL Y-1140]
+>ref|XP_451999.1| hypothetical protein [Kluyveromyces lactis NRRL Y-1140]
+>ref|XP_453211.1| hypothetical protein [Kluyveromyces lactis NRRL Y-1140]
+>ref|XP_454130.1| hypothetical protein [Kluyveromyces lactis NRRL Y-1140]
+>ref|XP_460016.2| DEHA2E16434p [Debaryomyces hansenii CBS767]
+>ref|XP_460906.1| DEHA2F12496p [Debaryomyces hansenii CBS767]
+>ref|XP_461373.2| DEHA2F23694p [Debaryomyces hansenii CBS767]
+>ref|XP_461644.2| DEHA2G02332p [Debaryomyces hansenii CBS767]
+>ref|XP_504609.1| YALI0E30877p [Yarrowia lipolytica]
+>ref|XP_504988.1| YALI0F04334p [Yarrowia lipolytica]
+>ref|XP_505476.1| YALI0F15939p [Yarrowia lipolytica]
+>ref|XP_562883.4| AGAP003118-PA [Anopheles gambiae str. PEST]
+>ref|XP_567592.1| RNA-binding protein sce3 [Cryptococcus neoformans var. neoformans 
+>ref|XP_571052.1| chromatin remodeling-related protein [Cryptococcus neoformans 
+>ref|XP_658463.1| hypothetical protein AN0859.2 [Aspergillus nidulans FGSC A4]
+>ref|XP_663728.1| hypothetical protein AN6124.2 [Aspergillus nidulans FGSC A4]
+>ref|XP_664309.1| hypothetical protein AN6705.2 [Aspergillus nidulans FGSC A4]
+>ref|XP_695864.2| PREDICTED: SWI/SNF complex subunit SMARCC2 [Danio rerio]
+>ref|XP_712883.1| hypothetical protein CaO19.11964 [Candida albicans SC5314]
+>ref|XP_714862.1| potential iron-responsive transcriptional activator [Candida 
+>ref|XP_716731.1| hypothetical protein CaO19.3423 [Candida albicans SC5314]
+>ref|XP_722281.1| hypothetical protein CaO19.12424 [Candida albicans SC5314]
+>ref|XP_760003.1| hypothetical protein UM03856.1 [Ustilago maydis 521]
+>ref|XP_762237.1| hypothetical protein UM06090.1 [Ustilago maydis 521]
+>ref|XP_801712.3| PREDICTED: SWI/SNF complex subunit SMARCC2 isoform 2 [Strongylocentrotus 
+>ref|XP_967487.1| PREDICTED: similar to eukaryotic initiation factor 4B protein 
+>ref|XP_972024.1| PREDICTED: similar to eukaryotic translation initiation factor 
+SWI3 <UNP SWI3_YEAST> [SACCHAROMYCES CEREVISIAE]
+>tpe|CBF78566.1| TPA: translation initiation factor 4B (AFU_orthologue; AFUA_2G16400) 
+>tpg|DAA17059.1| TPA: SWI/SNF-related matrix-associated actin-dependent regulator 
